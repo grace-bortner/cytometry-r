@@ -4,7 +4,7 @@ Flow and mass cytometry analysis in R using the Bioconductor ecosystem — flowC
 
 Status:
 In active development. This repository is being built throughout 2026 as part of a computational immunology portfolio. Sections are added as the corresponding skills are developed across a 12-week Python + R learning plan. Target completion: August-September 2026.
-Until then, this README documents the planned scope and methodology. Code, the rendered RMarkdown report, and figures will be added incrementally.
+Until then, this README serves as a planning document for the project's scope and structure. Code, notebooks, and figures will be added as each stage of the analysis is completed.
 
 Project Goal:
 To execute a complete differential-discovery cytometry workflow in R, applied to a public CyTOF or spectral flow dataset, following the methodology established by Nowicka et al. (F1000Research) and the CATALYST framework. The output will be a fully reproducible RMarkdown report.
@@ -34,8 +34,9 @@ Background:
 I work as a Resource Technologist at the University of Pennsylvania's Institute for Immunology and Immune Health. This portfolio represents independent computational work undertaken in preparation for graduate study in molecular biotechnology.
 
 See also: 
-cytometry-python 
-integrated-cytometry-analysis
+
+cytometry-python ; 
+integrated-cytometry-analysis ; 
 python-r-fundamentals
 
 License: 
